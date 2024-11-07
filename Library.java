@@ -19,9 +19,7 @@ public class Library extends Building {
       this.nFloors = nFloors; 
       collection.put("War and Peace", true); //initializing a book in the collection, returns null otherwise
     }
-
-   
-
+    
   /**
    * Checks a book out or returns a book
    * @param action
